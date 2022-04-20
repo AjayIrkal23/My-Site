@@ -1,0 +1,214 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+.head-line {
+    font-family: 'Courgette', cursive;
+    color: #FB9503;
+    font-size: 60px;
+}
+
+.tag-line {
+    font-family: 'Satisfy', cursive;
+    color: red;
+    font-size: 20px;
+}
+
+.top {
+    position: relative;
+    background-color: aliceblue;
+    padding: 100px;
+}
+
+.middle {
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+}
+
+.bottom {
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 400px;
+}
+
+.top-cloud {
+    position: relative;
+    left: 380px;
+    bottom: 10px;
+}
+
+.ajay {
+    margin-top: 70px;
+    height: 170px;
+}
+
+.hello {
+    color: #FB8603;
+    font-family: 'Acme', sans-serif;
+}
+
+.hello-tittle {
+    font-family: 'Courgette', 'cursive';
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+
+.hr1 {
+    border-top: 10px dotted #b4abab;
+    width: 100px;
+    border-left: 0;
+    border-bottom: 0;
+    border-right: 0;
+}
+
+.skills {
+    font-family: 'Acme', sans-serif;
+    color: #FB8603;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.skill-sec {
+    position: relative;
+}
+
+.desgin-dev {
+    font-family: 'Acme', sans-serif;
+    color: #11999E;
+    position: absolute;
+    right: 700px;
+    top: 115px;
+}
+
+.computer {
+    height: 180px;
+    position: absolute;
+    left: 380px;
+}
+
+.des-tittle {
+    position: absolute;
+    text-align: left;
+    right: 495px;
+    padding-top: 45px;
+}
+
+.panipur-sec {
+    position: relative;
+    padding-top: 220px;
+    padding-bottom: 280px;
+}
+
+.panipuri {
+    font-family: 'Acme', sans-serif;
+    color: #11999E;
+    position: absolute;
+    left: 380px;
+}
+
+.chillies {
+    position: absolute;
+    padding-top: 25px;
+    height: 200px;
+    right: 550px;
+}
+
+.pani-txt {
+    position: absolute;
+    left: 380px;
+    top: 300px;
+}
+
+.hr2 {
+    border-top: 10px dotted #b4abab;
+    width: 100px;
+    border-left: 0;
+    border-bottom: 0;
+    border-right: 0;
+    padding-bottom: 40px;
+}
+
+.gtt {
+    font-family: 'Acme', sans-serif;
+    color: #FB8603;
+    padding: 0;
+}
+
+.lovepp {
+    font-family: 'Acme', sans-serif;
+    color: #FB8603;
+    padding: 5px;
+}
+
+.btn {
+    background: #34d99c;
+    background-image: -webkit-linear-gradient(top, #34d99c, #2cb88e);
+    background-image: -moz-linear-gradient(top, #34d99c, #2cb88e);
+    background-image: -ms-linear-gradient(top, #34d99c, #2cb88e);
+    background-image: -o-linear-gradient(top, #34d99c, #2cb88e);
+    background-image: linear-gradient(to bottom, #34d99c, #2cb88e);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #000000;
+    font-size: 22px;
+    padding: 13px 29px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #fc3c69;
+    text-decoration: none;
+}
+
+.pad {
+    padding: 70px;
+}
+
+.end-panel {
+    margin-top: 20px;
+    background-color: #66BFBF;
+    height: 160px;
+    position: relative;
+}
+
+.linkd {
+    font-family: 'Acme', sans-serif;
+    color: #0c3c16;
+    position: absolute;
+    left: 600px;
+    top: 30px;
+}
+
+.twitter {
+    font-family: 'Acme', sans-serif;
+    color: #0c3c16;
+    position: absolute;
+    left: 700px;
+    top: 30px;
+}
+
+.web {
+    font-family: 'Acme', sans-serif;
+    color: #0c3c16;
+    position: absolute;
+    left: 800px;
+    top: 30px;
+}
+
+.copyrgt {
+    position: absolute;
+    font-family: 'Acme', sans-serif;
+    left: 650px;
+    top: 90px;
+    color: #EAF6F6;
+}
